@@ -1,0 +1,31 @@
+ProcurementID,Supplier,Material,Quantity,UnitPrice,TotalCost,DateOrdered,DeliveryDate,Status
+PR001,Supplier1,Pipes,1000,10.50,10500,2023-05-10,2023-06-15,Delivered
+PR002,Supplier2,Pumps,20,550.00,11000,2023-05-15,2023-07-05,In Progress
+PR003,Supplier3,Valves,500,25.00,12500,2023-06-01,2023-07-20,Planned
+PR004,Supplier1,Compressors,5,2000.00,10000,2023-06-10,2023-08-10,Delivered
+PR005,Supplier4,Heat Exchangers,10,800.00,8000,2023-06-20,2023-09-05,In Progress
+PR006,Supplier2,Tanks,8,1500.00,12000,2023-07-02,2023-09-15,Planned
+PR007,Supplier5,Electrical Cables,2000,2.00,4000,2023-07-15,2023-10-10,In Progress
+PR008,Supplier6,Control Systems,4,5000.00,20000,2023-07-25,2023-11-05,Planned
+PR009,Supplier3,Instrumentation,15,300.00,4500,2023-08-05,2023-11-20,In Progress
+PR010,Supplier7,Safety Equipment,100,50.00,5000,2023-08-12,2023-12-10,Planned
+PR011,Supplier4,Seals,1000,5.50,5500,2023-09-02,2023-10-25,Planned
+PR012,Supplier2,Insulation Materials,500,15.00,7500,2023-09-10,2023-11-15,In Progress
+PR013,Supplier8,Chemicals,200,30.00,6000,2023-09-20,2023-12-05,Planned
+PR014,Supplier1,Steel Plates,300,40.00,12000,2023-10-05,2023-12-20,In Progress
+PR015,Supplier6,Control Valves,50,150.00,7500,2023-10-15,2024-01-10,Planned
+PR016,Supplier9,Pumps,15,600.00,9000,2023-10-25,2024-02-15,In Progress
+PR017,Supplier5,Electrical Panels,10,400.00,4000,2023-11-02,2024-03-10,Planned
+PR018,Supplier3,Instrument Calibration Tools,5,200.00,1000,2023-11-10,2024-03-25,In Progress
+PR019,Supplier7,Fire Safety Equipment,75,60.00,4500,2023-11-20,2024-04-05,Planned
+PR020,Supplier10,Monitoring Sensors,200,10.00,2000,2023-12-01,2024-04-15,In Progress
+PR021,Supplier4,Seals,1000,5.50,5500,2023-12-10,2024-05-25,Planned
+PR022,Supplier2,Insulation Materials,500,15.00,7500,2023-12-20,2024-06-15,In Progress
+PR023,Supplier8,Chemicals,200,30.00,6000,2024-01-02,2024-07-05,Planned
+PR024,Supplier1,Steel Plates,300,40.00,12000,2024-01-10,2024-08-20,In Progress
+PR025,Supplier6,Control Valves,50,150.00,7500,2024-01-20,2024-09-10,Planned
+PR026,Supplier9,Pumps,15,600.00,9000,2024-02-05,2024-10-15,In Progress
+PR027,Supplier5,Electrical Panels,10,400.00,4000,2024-02-15,2024-11-10,Planned
+PR028,Supplier3,Instrument Calibration Tools,5,200.00,1000,2024-03-01,2024-12-25,In Progress
+PR029,Supplier7,Fire Safety Equipment,75,60.00,4500,2024-03-10,2025-01-05,Planned
+PR030,Supplier10,Monitoring Sensors,200,10.00,2000,2024-03-20,2025-02-15,In Progress
